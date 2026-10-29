@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SeatingChart.Client/SeatingChart.Client.csproj" />
+    <Project Path="src/SeatingChart.Core/SeatingChart.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SeatingChart.Core.Tests/SeatingChart.Core.Tests.csproj" />
+  </Folder>
+</Solution>

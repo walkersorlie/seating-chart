@@ -1,0 +1,13 @@
+StudentId,FirstName,LastName,Grade,Notes,ConflictsWith
+S001,Ava,Johnson,7,,S004;S009
+S002,Liam,Martinez,7,Needs front row,
+S003,Noah,Kim,7,,S007
+S004,Emma,Williams,7,,S001
+S005,Olivia,Brown,7,"Hearing aid, left ear",
+S006,Elijah,Davis,7,,S010
+S007,Sophia,Garcia,7,,S003
+S008,Mason,Patel,7,,
+S009,Isabella,Nguyen,7,,S001
+S010,Lucas,Thompson,7,,S006;S012
+S011,Mia,Anderson,7,,
+S012,Ethan,O'Brien,7,"Prefers quiet area",S010
